@@ -39,3 +39,5 @@ An e-commerce web application for digital products that allows creators to:
 [Database Schema](./db.schema.md)
 
 [Tasks Checklist](./tasks.checklist.md) 
+
+[Design Inspiration](https://dribbble.com/shots/21590113-Ollyo-Website-Redesign-Concept) 
